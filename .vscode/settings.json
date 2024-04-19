@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "recursion",
+        "Stack",
+        "LinkedLists",
+        "Greedy",
+        "Arrays",
+        "BinaryTree"
+    ]
+}
